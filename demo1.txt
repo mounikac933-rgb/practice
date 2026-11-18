@@ -1,1 +1,3 @@
-  I am attending the datamites ai enginennering  couurse 
+    I am attending the datamites ai enginennering  couurse 
+    in this course we have completed pythin, statistics, power bi, tableau,
+    now we we learning  gi and github
